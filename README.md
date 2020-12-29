@@ -45,12 +45,12 @@ Kami menggunakan metode VLSM, dan berikut adalah gambar pembagian subnet, pohon 
 
 - Pembagian Subnet
 
-![VLSM](https://user-images.githubusercontent.com/57977401/103074345-5e400700-4604-11eb-9177-8204b9cc8e9c.png)
+![VLSM](https://github.com/nicosiahaan/Jarkom_Modul5_Praktikum_C11/blob/main/Screenshot_221.png)
 
 
 - Pohon IP
 
-![Praktikum5](https://user-images.githubusercontent.com/57977401/103074347-6009ca80-4604-11eb-8758-849fc92e35e7.jpg)
+![Praktikum5](https://github.com/nicosiahaan/Jarkom_Modul5_Praktikum_C11/blob/main/Screenshot_222.png)
 
 
 - Table IP
