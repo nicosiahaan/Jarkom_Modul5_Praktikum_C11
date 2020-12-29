@@ -53,24 +53,9 @@ Kami menggunakan metode VLSM, dan berikut adalah gambar pembagian subnet, pohon 
 ![Praktikum5](https://github.com/nicosiahaan/Jarkom_Modul5_Praktikum_C11/blob/main/Screenshot_222.png)
 
 
-- Table IP
-
-![Pembagian IP](https://user-images.githubusercontent.com/57977401/103096596-68cbc200-463f-11eb-9499-cf87a32ff23c.png)
-
 <br>
 
-Sehingga didapat IP tiap UML adalah sebagai berikut:
-```
-Malang	    10.151.77.90
-Mojokerto   10.151.77.91
-Batu	    192.168.2.2
-Sidoarjo    192.168.0.2
-Surabaya    10.151.76.46
-Kediri	    192.168.2.6
-Gresik	    192.168.1.2
-Madiun	    192.168.2.10
-Probolinggo 192.168.2.11
-```
+
 
 - Interfaces
 
@@ -219,7 +204,7 @@ Routing yang dilakukan adalah sebagai berikut
 
 - Pada UML Surabaya
 ```
-route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.151.76.46
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.151.77.46
 route add -net 10.151.77.88 netmask 255.255.255.248 gw 192.168.2.2
 route add -net 192.168.2.8 netmask 255.255.255.248 gw 192.168.2.6
 route add -net 192.168.0.0 netmask 255.255.255.0 gw 192.168.2.2
